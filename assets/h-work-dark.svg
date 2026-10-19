@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 52" width="840" height="52" role="img" aria-labelledby="t d">
+<title id="t">Featured work</title>
+<desc id="d">Featured work</desc>
+<style></style>
+<defs><linearGradient id="h" x1="0" x2="1"><stop offset="0" stop-color="#ff4fd8"/><stop offset=".35" stop-color="#b46cff" stop-opacity=".6"/><stop offset="1" stop-color="#2a2142" stop-opacity="0"/></linearGradient></defs><rect x=".5" y="6.5" width="30" height="30" rx="8" fill="#140f22" stroke="#2a2142"/><path fill="#ff4fd8" d="M14 14h2v2h-2zM16 14h2v2h-2zM14 16h2v2h-2zM16 16h2v2h-2zM8 18h2v2h-2zM10 18h2v2h-2zM12 18h2v2h-2zM14 18h2v2h-2zM16 18h2v2h-2zM18 18h2v2h-2zM20 18h2v2h-2zM22 18h2v2h-2zM10 20h2v2h-2zM12 20h2v2h-2zM14 20h2v2h-2zM16 20h2v2h-2zM18 20h2v2h-2zM20 20h2v2h-2zM12 22h2v2h-2zM14 22h2v2h-2zM16 22h2v2h-2zM18 22h2v2h-2zM10 24h2v2h-2zM12 24h2v2h-2zM18 24h2v2h-2zM20 24h2v2h-2zM10 26h2v2h-2zM20 26h2v2h-2z" shape-rendering="crispEdges"/><text x="44" y="28.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="650" fill="#ece8ff" text-anchor="start">Featured work</text><rect x="0" y="48" width="840" height="2" fill="url(#h)"/>
+</svg>

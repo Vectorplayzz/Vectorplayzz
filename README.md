@@ -17,7 +17,3 @@
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/h-toolbox-light.svg"><img src="./assets/h-toolbox-dark.svg" width="100%" alt="Toolbox"></picture></h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg"><img src="./assets/toolbox-dark.svg" width="100%" alt="Toolbox. AI and ML: Python, PyTorch, Hugging Face, pandas, SciPy. Agents: MCP, Ollama, RAG, approval gates. Web: TypeScript, React, Node.js, Express, Prisma, MySQL. Infra: Linux, Docker, NGINX, systemd and PM2. Cloud and CI: Google Cloud, Cloudflare, GitHub Actions."></picture>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vectorplayzz/Vectorplayzz/output/snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vectorplayzz/Vectorplayzz/output/snake-light.svg"><img src="https://raw.githubusercontent.com/Vectorplayzz/Vectorplayzz/output/snake-dark.svg" width="100%" alt="A pixel snake eating my GitHub contribution graph"></picture>
